@@ -1,0 +1,139 @@
+symptoms
+code dsm-iv-tr
+code dsm-iv-tr
+icd-10 code
+icd-10 code
+icd-10 code
+mental disease
+internet addiction
+internet gaming addiction
+mental disorder
+facebook addiction
+full-blown manic mood episode
+hypomanic mood episode
+depressed mood episode
+disorganized schizophrenia
+catatonic schizophrenia
+undifferentiated schizophrenia
+residual schizophrenia
+pathological mental process
+mental disease course
+diagnosis of mental disease
+manifestation of a mental disease
+addiction disorder
+process addiction
+gambling addiction
+sex addiction
+shopping addiction
+addiction to use of a sunbed
+dissociative fugue
+sexual desire disorder
+sexual arousal disorder
+orgasmic disorder
+sexual pain disorder
+primary sleep disorder: dyssomnia
+primary sleep disorder: parasomnia
+brief psychotic disorder
+shared psychotic disorder
+psychotic disorder due to a general medical condition
+cataplexy
+disordered thinking
+delusion
+apprehension
+speech disorder
+delirium
+enuresis
+encopresis
+compulsion
+mania
+obsession
+catatonic behaviour
+depersonalization
+derealization
+flashback
+hallucination
+magical thinking
+insomnia
+anxiety
+stockholm syndrome
+dissociation
+flight of ideas
+grandiosity
+phobia
+stupor
+homicidal ideations
+flat affect
+agoraphobia
+fixation
+anergia
+cocaine bugs
+resistance
+conditioned response
+suicide
+panic attack
+manic episode
+psychosis
+rem sleep behaviour disorder
+delayed sleep-phase syndrome
+major depressive episode
+hypomanic episode
+nightmare
+mixed episode
+binge eating
+binge-eating disorder
+chronic stress
+caffeine intoxication
+anhedonia
+grossly disorganized behavior
+suicidal ideations
+catatonic excitement
+catatonic stupor
+catatonic rigidity
+catatonic posturing
+waxy flexibility (in catatonia)
+akinesia
+affective flattening
+alogia
+avolition
+paramnsesia
+defense mechanism
+repression
+reaction formation
+projection
+rationalization
+displacement
+undoing
+regression
+hyperactivity
+assaultive behavior
+suicidal behavior
+delusion of persecution
+restlessness
+rambling
+drowsiness
+nervousness
+paranoia
+mass madness
+abstinence syndrome
+dysphoria
+premenstrual dysphoric disorder
+premenstrual syndrome
+anorgasmia
+substance-induced sexual dysfunction
+hyperarousal
+substance-induced anxiety disorder
+substance-induced sleep disorder
+social dysfunction
+occupational dysfunction
+orientation
+craving (withdrawal)
+disorientation
+incoherence
+disorientation
+mood swing
+somnolence
+thought disorder (td)
+derailment
+tangentiality in speech
+perseveration
+thought blocking

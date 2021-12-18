@@ -1,0 +1,148 @@
+cognitive process
+procedural memory
+generative verbal activity
+touch sensation
+reasoning function
+interpretive verbal activity
+temperature sensation
+prospective memory
+free recall
+discrimination activity
+cognitive state
+iconic memory
+drawing
+remote memory
+pain sensation
+emotion
+memory consolidation
+locomotor function
+memory retrieval
+semantic memory
+bitter taste sensation
+behavioral system function
+somatic sensation
+happiness
+electrical sensation
+sensory perception
+sensory memory
+behavioral activity
+visceral sensation
+verbal memory
+anxiety
+auditory sensation
+memory process
+deductive reasoning function
+smoking
+verbal speaking
+visual memory
+fast pain sensation
+oculomotor function
+fear
+anger
+attention
+olfactory sensation
+moral reasoning activity
+lateralized activity
+item recognition activity
+interpretive braille reading
+sadness
+autobiographical memory
+inductive reasoning activity
+verbal function
+topographical memory
+memory recall
+working memory
+spatial memory
+requested recall
+recognition memory
+motor activity
+slow pain sensation
+cognitive function
+motor system function
+salty taste sensation
+free recall function
+verbal activity
+communication function
+episodic memory
+sour taste sensation
+memory function
+memory
+sweet taste sensation
+inductive reasoning function
+verbal writing
+autobiographical memory
+feeding
+abductive reasoning function
+recognition memory function
+umami taste sensation
+interpretive vision based reading
+skeletomotor reflex activity
+working memory
+appetitive function
+chemical sensation
+working memory function
+photo sensation
+locomotor activity
+abductive reasoning activity
+discrimination function
+interpretive listening
+skeletomotor reflex function
+proprioception
+memory acquistion
+explicit memory
+magnetic sensation
+inidividual body part movement
+memory retention
+equilibrioception sensation
+implicit memory
+nutrition function
+reasoning activity
+requested recall function
+eye movement
+visual sensation
+behavioral process
+deductive reasoning activity
+taste sensation
+saccadic eye movement
+eidetic memory
+sensory system function
+nervous system function
+visual system function
+vestibular system function
+auditory system function
+somatosensory system function
+autonomic nervous system function
+sympathetic nervous system function
+parasympathetic nervous system function
+proprioceptive system function
+kinesthetic sensation
+kinesthetic system function
+gustatory system function
+sensory stimulus transduction
+mechanical stimulus transduction
+chemical stimulus transduction
+light stimulus transduction
+temperature stimulus transduction
+generative memory activity
+gustatory stimulus transduction
+olfactory stimulus transduction
+bicarbonate stimulus transduction
+molecule flow stimulus transduction
+pressure stimulus transduction
+touch stimulus transduction
+echolocation sensation
+sound sensation
+heat sensation
+cold sensation
+ciliary displacement stimulus transduction
+accelleration stimulus transduction
+electroception stimulus transduction
+magnetic field stimulus transduction
+solid object-coupled ciliary displacement stimulus transduction
+fluid-coupled ciliary displacement stimulus transduction
+musculoskeletal equilibrium sensation
+memory-driven activity
+learning
+consciousness
+play activity
+executive function

@@ -1,0 +1,57 @@
+action
+execution
+speech
+imagination
+inhibition
+motor learning
+observation
+preparation
+rest
+cognition
+attention
+language
+orthography
+phonology
+semantics
+syntax
+memory
+explicit memory
+implicit memory
+working memory
+music
+reasoning
+social cognition
+somatic
+spatial
+temporal cognition
+emotion
+anger
+anxiety
+disgust
+fear
+happiness
+humor
+sadness
+interoception
+baroregulation
+gastrointestinal
+genitourinary
+heartbeat
+hunger
+osmoregulation
+respiration
+sexuality
+sleep
+thermoregulation
+thirst
+vestibular
+perception
+audition
+gustation
+olfaction
+somesthesis
+pain
+vision
+color
+motion
+shape

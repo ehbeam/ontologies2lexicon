@@ -1,0 +1,18 @@
+Blink
+Finger Tapping
+Saccades
+Breathe Response
+Flexion or Extension
+Smile Response
+Breath-Hold Response
+Grasp
+Speech
+Button Press
+Manipulate
+Swallow
+Draw
+Micturate
+Whistle
+Drink
+Point
+Write
